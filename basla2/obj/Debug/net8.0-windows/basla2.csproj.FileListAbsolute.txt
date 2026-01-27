@@ -1,0 +1,17 @@
+C:\Users\reyha\source\repos\basla2\basla2\obj\Debug\net8.0-windows\basla2.csproj.GenerateResource.cache
+C:\Users\reyha\source\repos\basla2\basla2\obj\Debug\net8.0-windows\basla2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyha\source\repos\basla2\basla2\obj\Debug\net8.0-windows\basla2.AssemblyInfoInputs.cache
+C:\Users\reyha\source\repos\basla2\basla2\obj\Debug\net8.0-windows\basla2.AssemblyInfo.cs
+C:\Users\reyha\source\repos\basla2\basla2\obj\Debug\net8.0-windows\basla2.csproj.CoreCompileInputs.cache
+C:\Users\reyha\source\repos\basla2\basla2\obj\Debug\net8.0-windows\basla2.Form1.resources
+C:\Users\reyha\source\repos\basla2\basla2\bin\Debug\net8.0-windows\basla2.exe
+C:\Users\reyha\source\repos\basla2\basla2\bin\Debug\net8.0-windows\basla2.deps.json
+C:\Users\reyha\source\repos\basla2\basla2\bin\Debug\net8.0-windows\basla2.runtimeconfig.json
+C:\Users\reyha\source\repos\basla2\basla2\bin\Debug\net8.0-windows\basla2.dll
+C:\Users\reyha\source\repos\basla2\basla2\bin\Debug\net8.0-windows\basla2.pdb
+C:\Users\reyha\source\repos\basla2\basla2\obj\Debug\net8.0-windows\basla2.dll
+C:\Users\reyha\source\repos\basla2\basla2\obj\Debug\net8.0-windows\refint\basla2.dll
+C:\Users\reyha\source\repos\basla2\basla2\obj\Debug\net8.0-windows\basla2.pdb
+C:\Users\reyha\source\repos\basla2\basla2\obj\Debug\net8.0-windows\basla2.genruntimeconfig.cache
+C:\Users\reyha\source\repos\basla2\basla2\obj\Debug\net8.0-windows\ref\basla2.dll
+C:\Users\reyha\source\repos\basla2\basla2\obj\Debug\net8.0-windows\basla2.Properties.Resources.resources

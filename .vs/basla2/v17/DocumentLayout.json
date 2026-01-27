@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\reyha\\source\\repos\\basla2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|solutionrelative:basla2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|c:\\users\\reyha\\source\\repos\\basla2\\basla2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|solutionrelative:basla2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\duvar_engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|solutionrelative:basla2\\duvar_engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\ari_engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|solutionrelative:basla2\\ari_engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\agac_engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|solutionrelative:basla2\\agac_engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\engeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|solutionrelative:basla2\\engeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\hareketliengeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|solutionrelative:basla2\\hareketliengeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\oyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|solutionrelative:basla2\\oyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\shrek_engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|solutionrelative:basla2\\shrek_engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\yesildag_engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|solutionrelative:basla2\\yesildag_engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\lokasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|solutionrelative:basla2\\lokasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\kus_engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|solutionrelative:basla2\\kus_engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\kaya_engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|solutionrelative:basla2\\kaya_engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\karliagac_engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|solutionrelative:basla2\\karliagac_engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\karlidag_engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920B078-B308-4247-9916-F53D24B46733}|basla2\\basla2.csproj|solutionrelative:basla2\\karlidag_engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ari_Engel.cs",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\ari_Engel.cs",
+              "RelativeDocumentMoniker": "basla2\\ari_Engel.cs",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\ari_Engel.cs",
+              "RelativeToolTip": "basla2\\ari_Engel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:05:08.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Oyuncu.cs",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\Oyuncu.cs",
+              "RelativeDocumentMoniker": "basla2\\Oyuncu.cs",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\Oyuncu.cs",
+              "RelativeToolTip": "basla2\\Oyuncu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:41:07.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hareketliEngeller.cs",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\hareketliEngeller.cs",
+              "RelativeDocumentMoniker": "basla2\\hareketliEngeller.cs",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\hareketliEngeller.cs",
+              "RelativeToolTip": "basla2\\hareketliEngeller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:05:59.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "engeller.cs",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\engeller.cs",
+              "RelativeDocumentMoniker": "basla2\\engeller.cs",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\engeller.cs",
+              "RelativeToolTip": "basla2\\engeller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:42:55.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "agac_Engel.cs",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\agac_Engel.cs",
+              "RelativeDocumentMoniker": "basla2\\agac_Engel.cs",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\agac_Engel.cs",
+              "RelativeToolTip": "basla2\\agac_Engel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:46:43.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "duvar_Engel.cs",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\duvar_Engel.cs",
+              "RelativeDocumentMoniker": "basla2\\duvar_Engel.cs",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\duvar_Engel.cs",
+              "RelativeToolTip": "basla2\\duvar_Engel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:12:48.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\Form1.cs",
+              "RelativeDocumentMoniker": "basla2\\Form1.cs",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\Form1.cs",
+              "RelativeToolTip": "basla2\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T11:04:54.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\Form1.cs",
+              "RelativeDocumentMoniker": "basla2\\Form1.cs",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "basla2\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:17:38.424Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "shrek_Engel.cs",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\shrek_Engel.cs",
+              "RelativeDocumentMoniker": "basla2\\shrek_Engel.cs",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\shrek_Engel.cs",
+              "RelativeToolTip": "basla2\\shrek_Engel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:04:55.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "yesilDag_Engel.cs",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\yesilDag_Engel.cs",
+              "RelativeDocumentMoniker": "basla2\\yesilDag_Engel.cs",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\yesilDag_Engel.cs",
+              "RelativeToolTip": "basla2\\yesilDag_Engel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:43:24.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lokasyon.cs",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\Lokasyon.cs",
+              "RelativeDocumentMoniker": "basla2\\Lokasyon.cs",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\Lokasyon.cs",
+              "RelativeToolTip": "basla2\\Lokasyon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T22:41:15.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "kus_Engel.cs",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\kus_Engel.cs",
+              "RelativeDocumentMoniker": "basla2\\kus_Engel.cs",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\kus_Engel.cs",
+              "RelativeToolTip": "basla2\\kus_Engel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:05:01.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "kaya_Engel.cs",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\kaya_Engel.cs",
+              "RelativeDocumentMoniker": "basla2\\kaya_Engel.cs",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\kaya_Engel.cs",
+              "RelativeToolTip": "basla2\\kaya_Engel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:49:00.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "karliAgac_Engel.cs",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\karliAgac_Engel.cs",
+              "RelativeDocumentMoniker": "basla2\\karliAgac_Engel.cs",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\karliAgac_Engel.cs",
+              "RelativeToolTip": "basla2\\karliAgac_Engel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:47:04.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "karliDag_Engel.cs",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\karliDag_Engel.cs",
+              "RelativeDocumentMoniker": "basla2\\karliDag_Engel.cs",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\basla2\\basla2\\karliDag_Engel.cs",
+              "RelativeToolTip": "basla2\\karliDag_Engel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:46:16.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
