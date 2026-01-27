@@ -1,30 +1,30 @@
-# [cite_start]Hazine Avı (Treasure Hunt) - 2D Grid Based Game [cite: 1, 17]
+# Hazine Avı (Treasure Hunt) - 2D Grid Based Game 
 
-[cite_start]Bu proje, **Kocaeli Üniversitesi Bilgisayar Mühendisliği Programlama Laboratuvarı II** dersi kapsamında geliştirilmiştir[cite: 1, 4, 5]. [cite_start]Temel amacı, dinamik olarak oluşturulan bir harita üzerinde oyuncunun en kısa yolu bularak farklı türdeki hazineleri toplamasıdır[cite: 17].
+Bu proje, **Kocaeli Üniversitesi Bilgisayar Mühendisliği Programlama Laboratuvarı II** dersi kapsamında geliştirilmiştir. Temel amacı, dinamik olarak oluşturulan bir harita üzerinde oyuncunun en kısa yolu bularak farklı türdeki hazineleri toplamasıdır.
 
 ## 🚀 Proje Özellikleri
 
-* [cite_start]**Dinamik Harita Oluşturma:** Kullanıcıdan alınan boyut değerine göre kareli bir oyun haritası oluşturulur[cite: 18, 19].
-* [cite_start]**Tematik Bölgeler:** Harita "Yaz" ve "Kış" olmak üzere iki farklı temaya ayrılmıştır[cite: 20].
-* [cite_start]**Çeşitli Hazineler:** Oyun içerisinde toplanabilir altın, gümüş, zümrüt ve bakır sandıklar bulunmaktadır[cite: 13, 17].
-* [cite_start]**Engel Mekanikleri:** Sabit ve hareketli engeller (duvarlar, ağaçlar, dağlar vb.) oyuncunun yolunu kısıtlar[cite: 27, 30, 34].
-* [cite_start]**Yol Takibi:** Oyuncunun geçtiği yollar görsel olarak yeşil bir çizgi ile takip edilir[cite: 35, 36].
+* **Dinamik Harita Oluşturma:** Kullanıcıdan alınan boyut değerine göre kareli bir oyun haritası oluşturulur.
+* **Tematik Bölgeler:** Harita "Yaz" ve "Kış" olmak üzere iki farklı temaya ayrılmıştır.
+* **Çeşitli Hazineler:** Oyun içerisinde toplanabilir altın, gümüş, zümrüt ve bakır sandıklar bulunmaktadır.
+* **Engel Mekanikleri:** Sabit ve hareketli engeller (duvarlar, ağaçlar, dağlar vb.) oyuncunun yolunu kısıtlar.
+* **Yol Takibi:** Oyuncunun geçtiği yollar görsel olarak yeşil bir çizgi ile takip edilir.
 
 ## 🛠 Kullanılan Teknolojiler
 
-* [cite_start]**Dil:** C# [cite: 25]
-* [cite_start]**Platform:** .NET Windows Forms [cite: 11, 26]
-* [cite_start]**Geliştirme Ortamı:** Visual Studio IDE [cite: 11, 25]
+* **Dil:** C# 
+* **Platform:** .NET Windows Forms 
+* **Geliştirme Ortamı:** Visual Studio IDE
 
 ## 🧠 Uygulanan Algoritmalar ve Yaklaşımlar
 
-* [cite_start]**A* (A-Star) Algoritması:** Oyuncunun sandıklara ulaşması için en kısa yolu hesaplamasında bu algoritma mantığı kullanılmıştır[cite: 40].
+* **A* (A-Star) Algoritması:** Oyuncunun sandıklara ulaşması için en kısa yolu hesaplamasında bu algoritma mantığı kullanılmıştır.
 * **Nesne Yönelimli Programlama (NYP):**
-    * [cite_start]**Soyutlama ve Kalıtım:** Engel ve lokasyon sınıfları `abstract` sınıflar üzerinden türetilmiştir[cite: 12, 29].
-    * [cite_start]**Çok Biçimlilik (Polymorphism):** Ortak metotlar `override` edilerek kullanılmıştır[cite: 29, 30].
-* **Çakışma Kontrolü:** Engellerin rastgele yerleştirilmesi sırasında üst üste binmemeleri için özel kontroller yapılmıştır[cite: 32].
+    * **Soyutlama ve Kalıtım:** Engel ve lokasyon sınıfları `abstract` sınıflar üzerinden türetilmiştir.
+    * **Çok Biçimlilik (Polymorphism):** Ortak metotlar `override` edilerek kullanılmıştır.
+* **Çakışma Kontrolü:** Engellerin rastgele yerleştirilmesi sırasında üst üste binmemeleri için özel kontroller yapılmıştır.
 
 ## 👥 Geliştiriciler
 
-* [cite_start]**Sena KÖSEOĞLU** [cite: 3]
-* [cite_start]**Reyhan KURTULMUŞ** [cite: 7]
+* **Sena KÖSEOĞLU** 
+* **Reyhan KURTULMUŞ** 
