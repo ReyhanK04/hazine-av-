@@ -27,4 +27,17 @@ Bu proje, **Kocaeli Üniversitesi Bilgisayar Mühendisliği Programlama Laboratu
 ## 👥 Geliştiriciler
 
 * **Sena KÖSEOĞLU** 
-* **Reyhan KURTULMUŞ** 
+* **Reyhan KURTULMUŞ**
+
+<img width="1190" height="867" alt="Ekran görüntüsü 2024-03-18 040317" src="https://github.com/user-attachments/assets/6124d2f6-ef0f-49c4-932a-e9379f280207" />
+<img width="1182" height="886" alt="Ekran görüntüsü 2024-03-18 040328" src="https://github.com/user-attachments/assets/5af76e4a-b883-44e1-a3e8-c005ed552723" />
+<img width="1170" height="893" alt="Ekran görüntüsü 2024-03-18 040334" src="https://github.com/user-attachments/assets/1337b071-db69-450c-ba7c-34443dc0f00e" />
+<img width="1173" height="868" alt="Ekran görüntüsü 2024-03-18 040341" src="https://github.com/user-attachments/assets/08a63c52-8957-4cab-a6c8-fad1d414560c" />
+<img width="1215" height="897" alt="Ekran görüntüsü 2024-03-18 040348" src="https://github.com/user-attachments/assets/70f98e97-158b-4469-9a3f-1f84f0b4960d" />
+<img width="1286" height="914" alt="Ekran görüntüsü 2024-03-18 040425" src="https://github.com/user-attachments/assets/64ccfc3b-4749-437e-b647-8dc0406c499b" />
+
+
+
+
+
+
